@@ -6,7 +6,7 @@
 
 Prisma Client is an auto-generated and type-safe query builder that you
 can use to programmatically read and write data in a database from a
-Node.js or TypeScript application. You will use it for database
+Node.js or TypeScript application. You can use it for database
 access within your REST API routes, replacing traditional ORMs, plain
 SQL queries, custom data access layers, or any other method of talking
 to a database.
