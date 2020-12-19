@@ -1,5 +1,7 @@
 # Prisma
 
+![Prisma poster](public/poster.png)
+
 ## About
 
 Prisma Client is an auto-generated and type-safe query builder that you
